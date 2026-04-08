@@ -83,4 +83,4 @@ This project is for demonstration purposes. Use of assets and design from the or
 
 ---
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Ayush Jha
